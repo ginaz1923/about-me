@@ -1,24 +1,32 @@
 # about-me
 ## Name: Gina Zhao
 ### Email: ginaz1923@hstat.org
+---
 ### School: HSTAT (High School of Telecommunication Arts and Technology)
+
  
 ## Schedule: 
-- Period 1: Algebra 2
-- Period 2: Global History
-- Period 3: Spanish
-- Period 4: Lunch
-- Period 5: Chemistrygit add
-- Period 6: SYEP
-- Period 7: Physical Education
-- Period 8: ELA
+ 1. Algebra 2
+ 1. Global History
+ 3. Spanish
+ 4. *Lunch*
+ 5. Chemistry
+ 6. **SYEP**
+ 7. Physical Education
+ 8. ELA
 
 ## Bio
 
-I was born on April 22th, 2006. 
+I was born on April 22th, 2006. I live in Brooklyn in a a house when my mom and grandma, and I have no siblings. 
 ### What I Like and Dislike
+#### Likes
+* drawing
+* building keyboards
+* talking friends
+* watching [Youtube](www.youtube.com)
 
-I don't have a lot of free time, but when I do I either draw, build keyboards, or sometimes play games with my friends. 
-I dislike being tired, (which is just me everyday, unfortunately) bugs, and being interrupted. 
+#### Dislikes
+* bugs
+* being tired
 
 
